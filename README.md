@@ -1,106 +1,75 @@
-**ABOUT ME**
+<h1 align="center">🚀 Daniel Miranda</h1>
+<p align="center"><b>Digital Identity Administrator | Data Analytics | Machine Learning | Identity Security</b></p>
 
-🚀 Daniel Miranda
+---
 
-Digital Identity Administrator | Data Analytics | Machine Learning | Identity Security
+## 👨‍💻 About Me
 
-Welcome to my GitHub portfolio.
+- 🎓 Master’s degree in Data Analytics  
+- 🎓 **Currently pursuing a PhD in Data Science**  
+- 💼 Digital Identity Administrator  
+- 🏦 Experience in financial services & digital banking environments  
+- 🧠 Focused on authentication risk modeling, anomaly detection, and digital containment strategy  
+- 📊 Builder of structured, reproducible analytics systems  
 
-I specialize in combining data analytics, machine learning, and digital identity systems to solve real-world business problems in financial services and digital banking environments.
+---
+## 📂 Projects  
 
-My work sits at the intersection of:
+---
+## 🛠 Technical Skills
 
-🔐 Identity & Access Management (IAM)
+### 🔹 Programming & Analytics
+- Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
+- R (Tidyverse, Caret, ggplot2)
+- SQL
+- Feature Engineering & Data Transformations
+- EDA & Model Evaluation
+- Statistical Modeling
 
-📊 Advanced Data Analytics & Dashboards
+### 🔹 Machine Learning
+- K-Means Clustering
+- Logistic Regression
+- General Linear Models
+- Neural Networks
+- Train/Test Validation Strategy
+- Data Leakage Prevention
+- Confusion Matrix & Model Metrics
+- Scaling & Winsorization
 
-🤖 Machine Learning & Predictive Modeling
+### 🔹 Identity & Digital Security
+- ForgeRock Access Management
+- Authentication Flow Architecture
+- Risk-Based Authentication
+- Risk-Based Authentication
+- Cloudflare Log Analysis
+- Identity Log Correlation
+- Behavioral & Post-Authentication Analysis
 
-⚙️ Process Automation & Reporting
+### 🔹 Visualization & Reporting
+- Tableau
+- Looker Studio
+- Streamlit
+- Reproducible Python Reporting Workflows
+- Executive KPI Dashboard Design
 
-📈 Risk, Authentication & Behavioral Analysis
+### 🔹 Automation & Optimization
+- Automated Monthly Reporting Pipelines
+- Digital Operations Dashboard Optimization
+- Data Extraction Performance Improvements
+- Alerting & Anomaly Monitoring Systems
 
-👨‍💻 About Me
+---
 
-🎓 Master’s degree in Data Analytics
 
-🎓 Currently pursuing a PhD in Data Science
+## 🧠 Research & Academic Focus
 
-💼 Digital Identity Administrator
+As a PhD candidate in Data Science, my interests include:
+- Applied ML in security systems
+- Authentication risk modeling
+- Behavioral analytics in financial systems
+- Model validation frameworks
 
-🏦 Experience in financial services & digital banking environments
+---
 
-🧠 Focused on authentication risk modeling, anomaly detection, and digital containment strategy
-
-📊 Builder of structured, reproducible analytics systems
-
-I design systems that balance security, intelligence, and usability.
-
-🛠 Technical Skills
-🔹 Programming & Analytics
-
-Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
-
-R (Tidyverse, Caret, ggplot2)
-
-SQL
-
-Feature Engineering & Data Transformations
-
-EDA & Model Evaluation
-
-Statistical Modeling
-
-🔹 Machine Learning
-
-K-Means Clustering
-
-Logistic Regression
-
-General Linear Models
-
-Neural Networks
-
-Train/Test Validation Strategy
-
-Data Leakage Prevention
-
-Confusion Matrix & Model Metrics
-
-Scaling & Winsorization
-
-🔹 Identity & Digital Security
-
-ForgeRock Access Management
-
-Authentication Flow Architecture
-
-Risk-Based Authentication
-
-Cloudflare Log Analysis
-
-Identity Log Correlation
-
-Behavioral & Post-Authentication Analysis
-
-🔹 Visualization & Reporting
-
-Tableau
-
-Looker Studio
-
-Streamlit
-
-Reproducible Python Reporting Workflows
-
-Executive KPI Dashboard Design
-
-🔹 Automation & Optimization
-
-Automated Monthly Reporting Pipelines
-
-Digital Operations Dashboard Optimization
-
-Data Extraction Performance Improvements
-
-Alerting & Anomaly Monitoring Systems
+## 📬 Let’s Connect
+https://www.linkedin.com/in/danielmr0909/
