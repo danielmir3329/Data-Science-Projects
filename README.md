@@ -51,6 +51,7 @@
 - Behavioral & Post-Authentication Analysis
 
 ### 🔹 Visualization & Reporting
+- Power BI
 - Tableau
 - Looker Studio
 - Streamlit
