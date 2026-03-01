@@ -14,7 +14,7 @@
 
 ---
 ## 📂 Projects  
-
+https://github.com/danielmir3329/Data-Analyst-AI-Agent
 ---
 ## 🛠 Technical Skills
 
