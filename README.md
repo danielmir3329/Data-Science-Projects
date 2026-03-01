@@ -17,6 +17,7 @@
 - Data Analyst AI Agent
   https://github.com/danielmir3329/Data-Analyst-AI-Agent
 - Advanced Fraud Modeling
+  https://github.com/danielmir3329/Advanced-Fraud-Modeling
   
 ---
 ## 🔬 Research  
